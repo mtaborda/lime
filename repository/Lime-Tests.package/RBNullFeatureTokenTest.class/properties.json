@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Tests-Tokens",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBNullFeatureTokenTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

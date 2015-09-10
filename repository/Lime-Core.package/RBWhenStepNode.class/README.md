@@ -1,0 +1,1 @@
+RBWhenStepNode is the AST that represents an scenario when step method.

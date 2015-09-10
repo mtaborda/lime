@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Tokens",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Synonyms" ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 18:05",
+	"instvars" : [
+		 ],
+	"name" : "RBStepToken",
+	"pools" : [
+		 ],
+	"super" : "RBFeatureToken",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+compiledMethodTrailer: bytes
+
+	self compilationContext compiledMethodTrailer: bytes

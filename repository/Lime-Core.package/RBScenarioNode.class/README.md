@@ -1,0 +1,1 @@
+RBScenarioNode is the AST that represents an scenario method.

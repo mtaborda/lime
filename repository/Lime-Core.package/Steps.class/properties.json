@@ -1,0 +1,16 @@
+{
+	"category" : "Lime-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TAssertable classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/9/2015 17:33",
+	"instvars" : [
+		 ],
+	"name" : "Steps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TAssertable - {#executeShould:inScopeOf:withDescriptionContaining:. #skipUnless:}",
+	"type" : "normal" }

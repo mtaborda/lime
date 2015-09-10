@@ -1,0 +1,4 @@
+accessing
+testSelectors
+
+	^self scenarioSelectors

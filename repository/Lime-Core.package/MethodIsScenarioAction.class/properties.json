@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 17:51",
+	"instvars" : [
+		 ],
+	"name" : "MethodIsScenarioAction",
+	"pools" : [
+		 ],
+	"super" : "AbstractMethodIconAction",
+	"type" : "normal" }

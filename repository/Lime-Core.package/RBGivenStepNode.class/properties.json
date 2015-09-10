@@ -1,0 +1,16 @@
+{
+	"category" : "Lime-Core-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 17:59",
+	"instvars" : [
+		"value",
+		"start",
+		"stop" ],
+	"name" : "RBGivenStepNode",
+	"pools" : [
+		 ],
+	"super" : "RBStepNode",
+	"type" : "normal" }

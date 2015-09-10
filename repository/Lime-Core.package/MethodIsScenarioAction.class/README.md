@@ -1,0 +1,1 @@
+Aciton when the method is an scenario

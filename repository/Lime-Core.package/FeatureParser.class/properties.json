@@ -1,0 +1,20 @@
+{
+	"category" : "Lime-Core-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 18:03",
+	"instvars" : [
+		"scanner",
+		"errorBlock",
+		"source",
+		"currentToken",
+		"nextToken",
+		"comments",
+		"encoder" ],
+	"name" : "FeatureParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

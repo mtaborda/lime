@@ -1,0 +1,4 @@
+accessing
+startWithoutParentheses
+
+	^self start

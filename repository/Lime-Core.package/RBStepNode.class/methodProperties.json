@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"value:start:stop:" : "MaximilianoTaborda 7/25/2015 15:46" },
+	"instance" : {
+		"acceptVisitor:" : "MaximilianoTaborda 7/25/2015 15:54",
+		"arguments" : "MaximilianoTaborda 8/2/2015 17:36",
+		"initializeValue:start:stop:" : "MaximilianoTaborda 7/25/2015 21:30",
+		"isStep" : "MaximilianoTaborda 7/25/2015 15:55",
+		"keyword" : "MaximilianoTaborda 8/2/2015 16:50",
+		"printOn:" : "MaximilianoTaborda 8/2/2015 18:06",
+		"start" : "MaximilianoTaborda 7/25/2015 21:18",
+		"startWithoutParentheses" : "MaximilianoTaborda 7/25/2015 21:15",
+		"stop" : "MaximilianoTaborda 7/25/2015 21:18",
+		"stoptWithoutParentheses" : "MaximilianoTaborda 7/25/2015 21:16",
+		"value" : "MaximilianoTaborda 7/25/2015 21:18" } }

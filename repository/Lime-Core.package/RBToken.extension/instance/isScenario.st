@@ -1,0 +1,4 @@
+*Lime-Core
+isScenario
+
+	^false

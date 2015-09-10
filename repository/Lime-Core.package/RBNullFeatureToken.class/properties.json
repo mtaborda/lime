@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Tokens",
+	"classinstvars" : [
+		"UniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 18:07",
+	"instvars" : [
+		 ],
+	"name" : "RBNullFeatureToken",
+	"pools" : [
+		 ],
+	"super" : "RBValueToken",
+	"type" : "normal" }

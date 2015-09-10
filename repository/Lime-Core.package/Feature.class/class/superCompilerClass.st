@@ -1,0 +1,4 @@
+compiling
+superCompilerClass
+
+	^super compilerClass

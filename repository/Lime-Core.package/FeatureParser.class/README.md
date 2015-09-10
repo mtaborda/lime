@@ -1,0 +1,1 @@
+FeatureParser takes a source code string and generates an AST for it. This is a hand-written, recursive descent parser and has been optimized for speed. The simplest way to call this is 'FeatureParser parseScenario: aString' if you want to parse an entire scenario.

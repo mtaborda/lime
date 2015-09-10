@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"selector:" : "MaximilianoTaborda 7/25/2015 18:23" },
+	"instance" : {
+		"acceptVisitor:" : "MaximilianoTaborda 7/25/2015 17:37",
+		"arguments" : "MaximilianoTaborda 7/10/2015 18:25",
+		"body" : "MaximilianoTaborda 7/2/2015 23:51",
+		"body:" : "MaximilianoTaborda 7/25/2015 17:37",
+		"compilationContext" : "MaximilianoTaborda 7/12/2015 19:43",
+		"compilationContext:" : "MaximilianoTaborda 7/25/2015 17:39",
+		"featureClass" : "MaximilianoTaborda 8/8/2015 17:35",
+		"featureClass:" : "MaximilianoTaborda 8/8/2015 17:35",
+		"generate:" : "MaximilianoTaborda 7/12/2015 19:37",
+		"generateIR" : "MaximilianoTaborda 7/27/2015 22:59",
+		"initialize" : "MaximilianoTaborda 7/25/2015 17:42",
+		"initializeSelector:" : "MaximilianoTaborda 7/25/2015 18:23",
+		"ir" : "MaximilianoTaborda 7/12/2015 19:52",
+		"ir:" : "MaximilianoTaborda 7/12/2015 19:52",
+		"methodClass" : "MaximilianoTaborda 8/8/2015 17:35",
+		"newSource" : "MaximilianoTaborda 6/30/2015 00:14",
+		"pragmas" : "MaximilianoTaborda 7/19/2015 18:49",
+		"properties" : "MaximilianoTaborda 7/19/2015 18:25",
+		"reformatSource" : "MaximilianoTaborda 8/8/2015 17:37",
+		"selector" : "MaximilianoTaborda 6/30/2015 20:17",
+		"source:" : "MaximilianoTaborda 7/25/2015 17:40",
+		"start" : "MaximilianoTaborda 7/25/2015 21:09",
+		"startWithoutParentheses" : "MaximilianoTaborda 7/25/2015 15:42",
+		"stop" : "MaximilianoTaborda 7/25/2015 21:09" } }

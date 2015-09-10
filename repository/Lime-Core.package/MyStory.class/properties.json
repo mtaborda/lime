@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyStory",
+	"pools" : [
+		 ],
+	"super" : "Feature",
+	"type" : "normal" }

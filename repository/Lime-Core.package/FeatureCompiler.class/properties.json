@@ -1,0 +1,18 @@
+{
+	"category" : "Lime-Core-FrontEnd",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 17:57",
+	"instvars" : [
+		"source",
+		"compilationContext",
+		"compilationContextClass",
+		"context",
+		"receiver" ],
+	"name" : "FeatureCompiler",
+	"pools" : [
+		 ],
+	"super" : "AbstractCompiler",
+	"type" : "normal" }

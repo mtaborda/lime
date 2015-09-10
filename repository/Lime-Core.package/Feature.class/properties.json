@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 17:26",
+	"instvars" : [
+		"steps" ],
+	"name" : "Feature",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

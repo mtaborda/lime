@@ -1,0 +1,4 @@
+*Lime-Core
+isStory
+
+	^false

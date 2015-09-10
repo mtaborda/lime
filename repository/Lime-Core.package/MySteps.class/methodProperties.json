@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"stepRepresentsAPreconditionToAnEvent" : "MaximilianoTaborda 8/2/2015 17:50",
+		"stepRepresentsAnotherPreconditionToAnEvent" : "MaximilianoTaborda 9/6/2015 16:41",
+		"stepRepresentsTheOccurrenceOfTheEvent" : "MaximilianoTaborda 8/8/2015 16:27",
+		"stepRepresentsTheOccurrenceOfTheEvent:" : "MaximilianoTaborda 9/6/2015 16:38",
+		"stepRepresentsTheOutcomeOfTheEvent" : "MaximilianoTaborda 8/8/2015 16:29",
+		"stepRepresentsTheOutcomeOfTheEvent:" : "MaximilianoTaborda 8/9/2015 18:17",
+		"stepRepresentsTheOutcomeOfTheEvent:andTheEvent:" : "MaximilianoTaborda 9/6/2015 16:42" } }

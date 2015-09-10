@@ -1,0 +1,20 @@
+{
+	"category" : "Lime-Core-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 8/8/2015 17:58",
+	"instvars" : [
+		"selector",
+		"left",
+		"right",
+		"body",
+		"compilationContext",
+		"source",
+		"replacements" ],
+	"name" : "RBScenarioNode",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNode",
+	"type" : "normal" }

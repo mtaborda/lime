@@ -1,0 +1,1 @@
+RBThenStepNode is the AST that represents an scenario then step method.

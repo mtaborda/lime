@@ -1,0 +1,4 @@
+accessing
+scanToken
+
+	^self scanLiteralOrKeyword

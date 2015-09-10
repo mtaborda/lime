@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"classCommentBlank" : "MaximilianoTaborda 8/8/2015 17:33",
+		"compile:classified:withStamp:notifying:logSource:" : "MaximilianoTaborda 8/8/2015 16:45",
+		"compilerClass" : "MaximilianoTaborda 9/6/2015 17:18",
+		"correspondingClass" : "MaximilianoTaborda 8/8/2015 17:33",
+		"isAbstract" : "MaximilianoTaborda 8/8/2015 17:32",
+		"isScenarioMethod:" : "MaximilianoTaborda 8/1/2015 19:37",
+		"isScenarioSource:" : "MaximilianoTaborda 8/8/2015 16:45",
+		"isStory" : "MaximilianoTaborda 8/1/2015 19:36",
+		"isTestCase" : "MaximilianoTaborda 8/1/2015 19:54",
+		"lookupHierarchyRoot" : "MaximilianoTaborda 8/8/2015 17:32",
+		"scenarioSelectors" : "MaximilianoTaborda 8/1/2015 19:50",
+		"superCompilerClass" : "MaximilianoTaborda 8/8/2015 16:51",
+		"testSelectors" : "MaximilianoTaborda 8/1/2015 19:37" },
+	"instance" : {
+		"performScenario" : "MaximilianoTaborda 9/6/2015 17:19",
+		"performStepNode:" : "MaximilianoTaborda 9/6/2015 15:58",
+		"runCase" : "MaximilianoTaborda 8/8/2015 18:38",
+		"setUp" : "MaximilianoTaborda 8/1/2015 21:52",
+		"stepClasses" : "MaximilianoTaborda 9/6/2015 17:20",
+		"tearDown" : "MaximilianoTaborda 8/1/2015 21:52" } }

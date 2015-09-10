@@ -1,0 +1,14 @@
+{
+	"category" : "Lime-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventName" ],
+	"name" : "MySteps",
+	"pools" : [
+		 ],
+	"super" : "Steps",
+	"type" : "normal" }

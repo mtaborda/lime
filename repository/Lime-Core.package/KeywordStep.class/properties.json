@@ -1,0 +1,19 @@
+{
+	"category" : "Lime-Core-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaximilianoTaborda 9/6/2015 17:29",
+	"instvars" : [
+		"selector",
+		"receiver",
+		"keywords",
+		"arguments",
+		"node",
+		"methodPragmas" ],
+	"name" : "KeywordStep",
+	"pools" : [
+		 ],
+	"super" : "Step",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+UnaryStep represents an step without arguments.
